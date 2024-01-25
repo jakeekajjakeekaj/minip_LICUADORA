@@ -1,0 +1,1 @@
+Este es un pequeño proyecto poniendo en práctica cosas que se han aprendio para realizar una licuadora
